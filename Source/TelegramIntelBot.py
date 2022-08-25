@@ -49,7 +49,7 @@ telegram_feed_list = {
     'Data1eaks': 'https://t.me/data1eaks',
     'R0Crew': 'https://t.me/R0_Crew',
     'HeawsNet': 'https://t.me/heawsnet',
-    'Ynosis': 'https://t.me/yeetgnosis
+    'Ynosis': 'https://t.me/yeetgnosis'
 }
 
 
