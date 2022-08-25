@@ -48,7 +48,8 @@ telegram_feed_list = {
     'RuHeight': 'https://t.me/ruheight',
     'Data1eaks': 'https://t.me/data1eaks',
     'R0Crew': 'https://t.me/R0_Crew',
-    'HeawsNet': 'https://t.me/heawsnet'
+    'HeawsNet': 'https://t.me/heawsnet',
+    'Ynosis': 'https://t.me/yeetgnosis
 }
 
 
